@@ -1,14 +1,20 @@
 GENERAL RULES for WILL WRITING BOOKS
 
-1) Follow Heinlein's 5 Rules for Writing
+1) Follow Robert Heinlein’s 5 Rules for Writing Speculative Fiction:
+1. You must *write*.
+2. You must *finish* what you start.
+3. You must refrain from rewriting except to editorial order.
+4. You must put it on the market.
+5. You must keep it on the market until sold.
 
-2) 11 books submitted to publishers by the end of 2024
+2) 11 books submitted put on the market, and kept on the market util
+sold, by the end of 2024
 
 3) All books are licensed under Creative Commons
 
 4) All books are on my GitHub account
 
-5) Record all writing the book, and put on my channel
+5) Record all writing of the books, and put the videos on my channel
 
 6) Complete first draft of book is in plain text (.txt)
 
@@ -16,4 +22,4 @@ GENERAL RULES for WILL WRITING BOOKS
   a) start a book on the 1st of the month
   b) finish writing the book *on the topic chosen* by the end of the
   month
-  c) submit book to a publisher by end of the month
+  c) put the book on the market on the last day of that month

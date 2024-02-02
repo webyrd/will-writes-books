@@ -1,5 +1,116 @@
+Slogans:
+
+*** Success is finishing and submitting on deadline ***
+
+Brett Victor: approximately this--the most dangerous thought a
+creative person can have is that they know what they are doing
+
+Want to finish the book on time and put it on the market so I can get
+that sweet, sweet Creative Commons money!  $$$$
+
+"My next one will be better!"
+
+No practice runs, no holding back the good stuff, etc
+
+Solutions to problems, not excuses
+
+Look forward, move forward
+
+Apply the creativity's book advice to the writing of the book
+
+Write simply and directly, without dancing around with fancy style
+
+Haiku for this book:
+Bad advice,
+poorly delivered
+Boredom ensues!
+
+
+
+Strategy for writing the book:
+
+Really meta strat:
+Go meta: apply the strategies of the book to the writing of the book,
+and include the writing of the book in the book
+
+instance of applying the meta-level strat to the book:
+employ the 100:10:1 approach advocated by fogus
+
+possible strats:
+
+4. ** plan quietly, maybe in my head, maybe curled up on my bed or couch with my eyes closed, visualizing and organizing **
+=>
+2. ** just start writing words **
+is it February 29th?
+if yes, shop it!
+if no, GOTO 4
+
+1. could start from the transcript of my Will Radio YouTube epi, and clean it up
+3. create an outline
+5. fill up part of a notebook with ideas
+6. make a bunch of YouTube videos describing these topics, and transcribe!
+7. talk to a rubber duck
+8. give a talk on ideosyncratic and creative thinking
+9. solicit strategies from Discord and YouTube, etc.
+10. hold conversations online with people to exchange stories and ideas
+
+heruristics and rules for this book:
+* story-oriented could be strong
+* keep it grounded and specific
+* things in my direct experience are best
+
+
+
+
 Strategies for Idiosyncratic and Creative Thinking
 
 by William E. Byrd
 
 [TODO insert Creative Commons Licence here]
+
+
+Olin Meta-advice
+
+nothing precious
+
+Fogus: 100:10:1 
+
+Milos Forman advice to Ed Norton about movie making--almost doesn't matter what your first movie is about
+
+"My brain hurts just thinking about it"
+"His lectures make my brain hurt" -- Utah undergrad after my talk in compilers
+
+
+From Will Radio, Part I -- Strategies for Idiosyncratic and Creative Thinking:
+
+* identify the most promising or standard approaches to a
+  problem, and then do anything but that (algorithms class)
+
+* 20 techniques/20 problems (Feynman)
+
+* Cisco's Rule
+
+* Olin's Rule -- standard advice is for standard outcomes
+  (Ed Fredkin & reversible computing, kiloTube, miniKanren, most scientific advances, etc.)
+
+* "My next one will be better!" (Ed Wood, at least in the movie)
+
+* find a way to get past your self-censorship and natural aversion to looking foolish
+  (kiloTube as a way to get into an work-a-day mindset about making videos; How to Write a Lot)
+
+* succeed epically or fail epically! (kiloTube, H211, my spelling of 'epically')
+
+* Edward Kmett's rule: do the thing people are less likely to believe is true;
+  also, anything people laugh at (much of miniKanren)
+
+* the start of becoming good at something is being bad at something
+  (see anything I've ever done,
+   interesting observation I heard from HB&B:
+   one reason kids learn quickly is they are used to being bad at things)
+
+* identify the assumptions people have about a topic, and find ways around them
+  (impossibility proofs; on the roof with a chainsaw for cryptanalysis; program synthesis book)
+
+* play! (Feynman; Friday Night Hack Nights and Ignobel Prize)
+
+* play to explore, not to win (game night; StarCraft tournament; Day[9]'s Funday Monday)
