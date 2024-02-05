@@ -1,13 +1,17 @@
-[** 25 days until sending to press **]
+** 25 days until sending to press **
 
-["Real Artists Ship" -- SJ]
-["We like him because he...gets on base." Moneyball]
-["Good or bad, you are going to press." (In my best Robocop voice)]
-["My next one will be better!" Ed Wood (at least in the movie)]
-["This is undoubtedly the worst book I've ever heard of."
- "But you *have* heard of it!" me channeling Jack Sparrow]
+"Real Artists Ship" -- SJ
 
-------------------
+"We like him because he...gets on base." Moneyball
+
+"Good or bad, you are going to press." (In my best Robocop voice)
+
+"My next one will be better!" Ed Wood (at least in the movie)
+
+"This is undoubtedly the worst book I've ever heard of."
+"But you *have* heard of it!" me channeling Jack Sparrow
+
+=====================
 
 Front Cover:
 
@@ -28,10 +32,10 @@ Copyright Page:
 
 CC BY 4.0 International
 
-[TODO add link to CC BY 4.0 International license, and include the
+[add link to CC BY 4.0 International license, and include the
 logo and the correct name of the license]
 
-This entire book can be downloaded for free from <TODO>.
+This entire book can be downloaded for free from [insert URL].
 
 --------------------
 
@@ -48,18 +52,31 @@ by
 
 William E. Byrd
 
-This entire book can be downloaded for free from <TODO>.
+This entire book can be downloaded for free from [add URL].
 
 ---------------------
 
 Table of Contents:
 
-<TODO>
-<come up with lulz-worthy names>
+Chapter 1: The Power of Absurdity
 
 ---------------------
 
-[TODO -- Book Goes Here]
+Chapter 1: The Power of Absurdity
+
+[intro para]
+
+Problem: I'm struggling to make one video every two weeks.
+Solution: Publically commit to making 1,000 videos this year.
+Solution, Part 2 (for Extra Lulz!): After making a handful of videos, increase the number to 2^{10} = 1,024 so I can define a new SI unit: the *kiloTube*.
+
+Problem: For the past 15 years I have started writing dozens of books, only to abandon them within minutes, days, weeks, or months.
+Solution: Publically commit to finishing and submitting for publication 11 books in 11 month, and to putting videos of all writing sessions on YouTube.
+Solution, Part 2 (for Extra Lulz!): Make the books available on GitHub with a CC BY 4.0 International license, then try to sell the books to commercial or academic publishers!
+
+---------------------
+
+[Book Goes Here]
 
 ---------------------
 
@@ -76,7 +93,7 @@ The members of the 'Imperishable Wonderland of Infinite Fun' Discord server.
 
 About the Author
 
-[TODO can include my kiloTube and milliAsimov challenges, and the fact
+[can include my kiloTube and milliAsimov challenges, and the fact
 that I recorded myself writing this book]
 
 ---------------------
@@ -89,8 +106,8 @@ Boredom ensues!
 
 CC BY 4.0 International
 
-[TODO add license details]
+[add license details]
 
-This entire book can be downloaded for free from <TODO>.
+This entire book can be downloaded for free from [add URL].
 
 --------------------

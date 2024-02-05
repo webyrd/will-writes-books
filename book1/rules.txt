@@ -1,3 +1,10 @@
+* If something needs to be fixed or updated, or changed throughout the
+book, stop, make a pass through the book, and fix it immediately.
+
+* outline to the para, topic sentence, sentence level
+
+------------------------------
+
 Lulz-Driven Development rule:
 If I lulz, it goes in the book.
 
