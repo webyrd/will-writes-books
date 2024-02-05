@@ -1,4 +1,11 @@
-[25 days until sending to press]
+[** 25 days until sending to press **]
+
+["Real Artists Ship" -- SJ]
+["We like him because he...gets on base." Moneyball]
+["Good or bad, you are going to press." (In my best Robocop voice)]
+["My next one will be better!" Ed Wood (at least in the movie)]
+["This is undoubtedly the worst book I've ever heard of."
+"But you *have* heard of it!" me channeling Jack Sparrow]
 
 ------------------
 
@@ -50,126 +57,6 @@ Table of Contents:
 <TODO>
 
 <come up with lulz-worthy names>
-
----------------------
-
-First page.
-
-This entire book can be downloaded for free from <TODO>.
-
-LULZ
-
-If this book were a Touhou Project game, it would be "Highly Responsive to Lulz".
-
-Sean Day[9] Plott: "So stupid, and so funny."  Let this be our mantra.
-
-
-"So stupid, so funny, so ridiculous, and so effective."
-
-In other words, Surprisingly Awesome
-
----------------------
-
-Chapter:
-Humor and absurdity as the basis for creativity
-
-
-Everything I love about miniKanren was based on either a dare or on a joke.
-
-fogus:
-miniKanren miniConfo
-The Unreasonable Schemers
-FriedByrd ** lulz
-
-------------------------
-
-The Power of Absurdity
-
-Problem: I'm struggling to make one video every two weeks.
-Solution: Publically commit to making 1,000 videos this year.
-Solution, Part 2 (for Extra Lulz!): After making a handful of videos, increase the number to 2^{10} = 1,024 so I can define a new SI unit: the *kiloTube*.
-
-Problem: For the past 15 years I have started writing dozens of books, only to abandon them within minutes, days, weeks, or months.
-Solution: Publically commit to finishing and submitting for publication 11 books in 11 month, and to putting videos of all writing sessions on YouTube.
-Solution, Part 2 (for Extra Lulz!): Make the books available on GitHub with a CC BY 4.0 International license, then try to sell the books to commercial or academic publishers!
-
----------------------
-
-talk about the mental challenges of creating things:
-
-the pause/Alex Honnold moment on the ledge--the equivalent in the middle of a talk for my first N talks
-
-wishing that I might suddenly get sick or an extreme weather even will cancel the conference or whatever a few hours before I am scheduled to speak
-
-wanting to shift away from whatever I'm doing to something else, including working on another talk or another book or whatever
-
-started working on a blog several times:
-* create blog infrastructure
-* create welcome post--yay!
-* start writing first technical post
-** post balloons to 20 pages, without signs of ending
-** decide that blogs suck and I should turn the post into a book
-*** stop working on blog and start working on book
-**** set up book infrastructure
-**** start writing book
-**** give up after 10% or 20% when I get stuck
-=> throw it all away and watch YouTube instead
-REPEAT!
-
-how to get over this?
-
-What is the relationship between idiosyncratic and creative thinking and finishing things?
-
-I once complained about how deadline-driven academic programming languages is; I was told, multiple times, by multiple people, that "deadlines make things happen."  I was never very satusfied by this claim, since other fields use journals with rolling deadlines, etc., and seem to work okay.
-
-Maybe deadlines are helpful not because they make things happen, but because they make things *stop* happening
-
-Productive Procrastination web page and book -- use external deadlines to make up for a lack of self-discipline to time-box activities that otherwise you would gold-plate and spend unbounded amounts of time on
-
-"if you need something done quickly, give it to the busiest person you know"
-
-not having time to mess around or over-think or "Nobel-prize-ize" in your head is a super power
-
-student-athletes at my HS as an example--the top students were also all athletes, sometimes in multiple sports.  They had incredible time management skills.  Well, at least in the sense that they didn't have time to mess around.
-
-Day[9] thoughts on losing energy when working on things you don't care about for a long time, even if they are easy/unchallenging.  The importance of stimulation
-=>
-very true--me at Greentop, me making videos and writing this book (cook, dishes, trash, hack, email, making forward progress on big, scary, nebulous tasks I don't know how to approach, taking a first step, and then another, and then continuing, especially with help)
-
-the power of mutual recursion when working with another person on something nebulous--both rubber ducking and forcing function, and new idea injection, and energy injection
-
-just work on it for 5 minutes--get into the zone
-
-George Lucas and original Star Wars script ~1975: sat in front of the typewritter for 8 hours a day, regardless of whether he was typing anything
-
-power of boredom
-power of reducing stimulation and removing youself from quick and easy stimulation loops
-
-Day[9] -- if you want to write a book, you have to write words, which means you have to sit in front of your computer and type on the keyboard (or the equivalent for some other modality).  So ultimately, you need to find a way to make yourself type on the keyboard for a certain amount of time each day/week.  Not turning on a Twitch or YT stream, or playing a game, etc.
-
-Aziz: had a separate "work requiring concentration" user account on his MacBook, without email login, internet blocked, whatever.  He would use fast user switching if he needed to check email or whatever.  There was enough friction in switching accounts that he wouldn't do it unless necessary when hacking on his compiler or writing a paper or whatever
-
-the power of working in public: coffee shop, with other people doing the same task, with a friend at a certain time each week, on GitHub, on YT or Twitch or whatever, ...
-
----------------------
-
-what have I learned so far from my experiments with making a kiloTube of YT vids and 11 books in 2024?
-
-well, came up with two funny units: the kiloTube (kT) and the milliAsimov (mA)
-
-I want to produce at least 1 kT of videos and 25 mA of books by the end of 2024.
-
-* working in public
-* public commitment
-* ridiculous sounding goals that aren't really ridiculous, but represent a radically different point of view requiring a fundament rethinking of success and subgoals and expectations and habits and methodology and tools and all the rest
-* factory-like mindset
-* have to produce so much that (1) I am constantly doing the thing (2) I by necessity have to refine my process on an ongoing basis (3) I can't worry about whether anyone else will like it, or if it is any good (4) I don't have time for complete re-writing or re-recording 
-* much better alignment of what I tell myself I want to do and what I'm actually doing
-* self-imposed deadlines not to "make things happen" but to "make things done", which turns out to be all the difference!  I actually wrote quite a bit over the years--I'm quite good at "making things happen".  I'm very bad at "making things done".
-* getting used to shipping things
-* nothing precious
-* getting over FOMO--I write to write a book on X, and a book on Y, and design and implement a new language, and make videos, and write more papers, etc.  Which one do I choose?  A: all of them!
-* Nelson quote about about going right at them!  I tend to spend way too much time preparing, when I should remember that (1) in research you are never really prepared and (2) I'm probably prepared *enough*, and if not, once I make the direct assault on what I'm doing and bounce off of it, I will have *learned* what I need to learn, at a minimum, to make progress on the task or problem.  Very experienced scientists/comp sci peeps often just go to the figures/typing judgements/other key figures of a paper, since (1) that's where the meat is and (2) the authors can use fancy words to make their work sound great or important, but the figures often tell a different story and (3) to see if they could replicate or implement what is in the figures.
 
 ---------------------
 
