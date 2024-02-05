@@ -1,53 +1,19 @@
-DECISION:
+[25 days until sending to press]
 
-the book is about my kiloTube and milliAsimov challenge to myself
-
-"Of Course" moment getting coffee
-trust the "Of Course" moment.  no chickening out!
-
-challenge, not experiment
-
-the book I would have wanted to send back in time to myself, 3 months ago! (or 10 years ago!)
-
-write what I needed to hear in the past, and what I'll almost certainly need to hear in the future
-
-write the book that only I can write
-
-** align what I tell myself I care about and want to do with what I actually spend my time, attention, energy, enthusiasm on **  <= The whole point
-*** doing and *finishing* and *releasing to the world* ***
-*** about being honest and direct, and finding my own style, and stripping away the unnecessary ***
-
-tie these things to making the kiloTube or the 25 milliAsimov
-* create a new relational programming language <-- giving a talk at HFUG Feb 21?
-* music <- do a live (or one-take recorded) musical performance, uploaded to my YT
-  channel!  At least one per week.
-* screenplay or a novel or short stories <- 2 milliAsimov's worth of sci-fi
-* physics -- GR, modern understanding of classical mechanics and how related to classical reversible computing; reversible computing <- videos and experiment with language implementation and design
-* computer hardware and FPGAs and tape-out an ASIC;
-   <= 8-bit Arcade Verilog thingy -- build a classic video game; Steven Hugg book
-   <= create a miniKanren Machine and a Scheme Machine
-* get over ladder anxiety for SC: Brood War <- record BW ladder games
-make recordings of this:
-* make a doujinshi on the beauty of computation and sell it at Comiket in Tokyo and/or at ZIN in Akiba
-** draw and paint
-** Japanese
-
-Go saying: lose your first 100 games as quickly as possible
-Make my first 100 bad videos as quickly as possible
-Write my first 10 bad books as quickly as possible
-
-
+------------------
 
 Front Cover:
 
-Will's Guide to Lulz-Driven Development
-for Idiosyncratic and Creative Thinking
+Surprisingly Awesome:
+Will's Guide to Lulz-Driven Development for Idiosyncratic and Creative
+Thinking
+-or-
+How to Use Absurb Goals to Align What You Claim You Want to Do with
+how You Actually Spend Your Time and Attention
 
 by
 
 William E. Byrd
-
-This entire book can be downloaded for free from <TODO>.
 
 --------------------
 
@@ -55,17 +21,21 @@ Copyright Page:
 
 CC BY 4.0 International
 
+[TODO add link to CC BY 4.0 International license, and include the
+logo and the correct name of the license]
+
 This entire book can be downloaded for free from <TODO>.
-
-
-for the Lulz...
 
 --------------------
 
 Inside Title Page:
 
-Will's Guide to Lulz-Driven Development
-for Idiosyncratic and Creative Thinking
+Surprisingly Awesome:
+Will's Guide to Lulz-Driven Development for Idiosyncratic and Creative
+Thinking
+-or-
+How to Use Absurb Goals to Align What You Claim You Want to Do with
+how You Actually Spend Your Time and Attention
 
 by
 
@@ -91,7 +61,12 @@ LULZ
 
 If this book were a Touhou Project game, it would be "Highly Responsive to Lulz".
 
-Sean Day[9] Plott: "So funny, and so stupid."  Let this be our mantra.
+Sean Day[9] Plott: "So stupid, and so funny."  Let this be our mantra.
+
+
+"So stupid, so funny, so ridiculous, and so effective."
+
+In other words, Surprisingly Awesome
 
 ---------------------
 
@@ -198,11 +173,29 @@ I want to produce at least 1 kT of videos and 25 mA of books by the end of 2024.
 
 ---------------------
 
+Acknowledgements
+
+My parents for their support, and for splitting the cost of the fancy microphone and boom arm I use in the video series.
+
+Alex Miller for the "Suprisingly Awesome" phrase I borrowed for the title.
+
+The members of the 'Imperishable Wonderland of Infinite Fun' Discord server.
+
+---------------------
+
+About the Author
+
+---------------------
+
 Back Cover:
 
 Bad advice,
 poorly delivered
 Boredom ensues!
+
+CC BY 4.0 International
+
+[TODO add license details]
 
 This entire book can be downloaded for free from <TODO>.
 
