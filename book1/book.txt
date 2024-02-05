@@ -5,7 +5,7 @@
 ["Good or bad, you are going to press." (In my best Robocop voice)]
 ["My next one will be better!" Ed Wood (at least in the movie)]
 ["This is undoubtedly the worst book I've ever heard of."
-"But you *have* heard of it!" me channeling Jack Sparrow]
+ "But you *have* heard of it!" me channeling Jack Sparrow]
 
 ------------------
 
@@ -55,14 +55,18 @@ This entire book can be downloaded for free from <TODO>.
 Table of Contents:
 
 <TODO>
-
 <come up with lulz-worthy names>
+
+---------------------
+
+[TODO -- Book Goes Here]
 
 ---------------------
 
 Acknowledgements
 
-My parents for their support, and for splitting the cost of the fancy microphone and boom arm I use in the video series.
+My parents for their support, and for splitting the cost of the fancy
+microphone and boom arm I use in the video series.
 
 Alex Miller for the "Suprisingly Awesome" phrase I borrowed for the title.
 
@@ -71,6 +75,9 @@ The members of the 'Imperishable Wonderland of Infinite Fun' Discord server.
 ---------------------
 
 About the Author
+
+[TODO can include my kiloTube and milliAsimov challenges, and the fact
+that I recorded myself writing this book]
 
 ---------------------
 
