@@ -1,0 +1,146 @@
+Hello!
+
+Welcome to Will's Silent Writing Session!
+
+It is Toooo Late by far for me to record audio, so I am going to record myself writing.
+
+Visual Radio!
+
+I have been thinking about Book 1, and about writing books, and all that, quite a bit.  I so far have been slow at writing Book 1, although I have been more active in writing myself notes during the day, using Apple Notes app, which is kinda wonky, but is at least sync'd between my phone and lappy.
+
+I've also been reading books by Dean Wesley Smith at a furious pace, one book per night.  He is of the Old Skool Pulp Fiction tradition, at least by temperment.  He was a publisher of Harlan Ellison, who could crank out words in any environment, about any type of story or plot, like clockwork.
+
+In 'Writing a Novel in Seven-Days: A Hands-on Example', Smith blogs about writing a novel from scratch, 43,000 words, in 7 days, while working a 44 hour work week, getting a decent night's sleep, watching some TV, etc.  Because it is fun!  He was able to hit his increasing word counts:
+
+3,700
+5,100
+5,600
+6,050
+7,500
+8,050
+7,000
+
+for a total of 43,050 words.
+
+As the novel progressed, his writing got faster.
+
+Even at his slowest, though, he was on pace for:
+
+(* 3700 365) => 1350500
+
+1.3 million words a year (assuming he wrote every day)
+
+At that pace he could take weekends off, for example, and still probably hit a million words.
+
+His novel went to press in it's first draft, with editing, but without a major rewrite.
+
+
+He also mentions that, from talking with other authors, the number of 1 million words written seems to be special.  I was just reading Jerry Pournelle's advice on how to get his job in which he says 1 million words written, finished, polished (and perhaps thrown away) is probably the right amount / minimal amount for an inspiring writer to learn the craft.
+
+The interesting thing to me about Smith is that he could keep up that pace (and then some!) at age 65 while working a full-time job.  His whole point was, "If I can do it, what is stopping you?"
+
+I really haven't written that many words on Book 1 yet (as of Sunday, Feb 4):
+
+     595 attic.txt
+    1275 awesome-notes.txt
+     536 book.txt
+      73 ideas.txt
+     122 rules.txt
+     328 thoughts.txt
+    2929 total
+
+Of course I've been trying to screw up my courage and feel my way around, and figure out what my book is about.
+
+Still, I feel like I'm treating my words as a little too...Precious, as Toki would say.
+
+Hmmm--I've got an idea!!!  :)  :P
+
+(You probably can guess where this is going...)
+
+Up the challenge, yet again!
+
+Time for Operation Pulp Speed
+
+Burger Time it!
+
+I just wrote 468 words. EZ.
+
+My new challenge, on top of the kiloTube of YT vids, and the 11 books, all in 2024, is to...
+
+write a million words in 2024.
+
+This doesn't have to be in the books, alone.  I'm not sure my books can handle a million words.
+
+Well, maybe they can, if I violate the No Rewiting Unless to Editorial Demand rule of Heinlein.
+
+I guess if I wrote Book 5 five times from scratch, that would be putting in some words.
+
+And I remember Olin's Meta-advice about listening to standard advice for standard outcomes, but following your own nose when it comes to what you care about.
+
+Since this whole exercise--the Challenges, that is--is to get me to complete things by making things less Precious by entering Assembly Line/Factory/Burger Restaurant Mode/Pulp Speed mindspace, the idea that I can rewrite Book 1 5 times from scratch, so long as I finish by the end of February, makes sense to me.
+
+After all, I already have a forcing function:  the book is going out the door on the 29th.  I don't mind sending out the 4th or 5th complete draft, rather than the first draft--send out the one that is best.
+
+Another way to think about it is to follow Dan's rule of writing--when there is a question about which of two ways to write a chapter of a book, try both!  Finish both versions.  Then throw at least one version away!
+
+The 2017 ICFP pearl and 2012 pearl and prefaces and forewords I've worked on all benefitted immensely from rewrites--very significant rewrites, and sometimes 5 separate drafts.  Usually by draft 3 to 5 things start to coallesce. <- you know what I mean.
+
+755 words so far!
+
+Significantly longer than what I've written so far.
+
+Oops--I clicked on the Stop button on the MBP toolbar thingy.  Another failure mode.  I just figured out I can click on the X to minimize the toolbar and keep me from clicking on Stop accidentally.
+
+Yes, I think writing a million words this year sounds write/right!!  :P
+
+Happy Accident
+
+That will get me squarely into Burger Timing mode: make moar burgers!!  (Veggie burgers)  Moar product.  Another busload of customers have arrived.  Flip faster!  Pulp Speed, as Smith calls it.
+
+I'll bet you that if I write at Pulp Speed, *and* do 3 to 5 drafts in the month, I could produce a book that is better than if I had obsessed over every word, but only written one draft (and prolly abandoned it 1/3 of the way through).
+
+Yep, that's what I'm going to do.
+
+I have to say, after reading the double-volume Asimov auto-biography, I was practically on fire with the desire to write, and to write a lot!
+
+And I'll also say that with making the videos at what sounds like a furious and ridiculous and unsustainable pace, I'm already starting to feel a modicum of what Asimov must have felt.  Can I squeeze in a video between these two meetings?  Can I get in a little writing tonight?  Etc.
+
+I'm even starting to get the itch to write deciAsimov's worth of books, not just milliAsimov's.
+
+Potential Issues:
+
+* working full time, and then some.  Smith shows that isn't an excuse.  In fact, much of my writing will be connected to my research.  I'm *supposed* to be writing.  Many of my million words will be on papers, I suspect.  (I'm not sure how much of that I will be able to show--we'll see.)
+
+* necessity to be quiet in early mornings and late at night--turns out that QuickTime Player lets you choose 'None' as the microphone input for a screen recording!  Learned that tonight.  Necessity being the Mother of Invention...
+
+* risk of repetitive strain injury from typing.  This is real.  I've suffered from this before, to a lesser extent.  I will have to experiment with my setup.  Worst comes to worst, I might end up using an LLM for transcription, or whatever.  I even found fancy microphones you can talk into that are like foam funnels, to keep your voice from carrying.  I'll figure it out!  That's part of this adventure.  DS Billy: "I want solutions, not excuses."
+
+1169 words so far
+
+Okay, that is settled.  1 million words by the end of 2024.  I really don't know if I can do this one.  On the other hand, I didn't think I could do 1 kiloTube a few weeks ago, and now I think it's actually pretty easy.  Not sure 11 books is easy, but I'll bet you if I write a million words, and allocate them to books, 11 books won't be so hard.  Really, it's probably more like I'll write 50 books, if I end up writing 5 drafts of each.  That sounds more like it.  11 books seemed a bit wimpy.  50 complete drafts sounds more interesting, and would definitely make me streeeetch and grow and be creative and discover interesting techniques, and also to streamline what I do.
+
+No type for excess ornament or pretension or messing around if I have 50 book drafts to write by end of year.
+
+Tonight I looked at the CC licenses on MIT Press books using Scheme or Racket:
+
+SICP: CC BY 4.0 International (the one I've put on Book 1)
+
+SDF: CC BY Non-Commercial
+
+Essentials of Compilation: CC BY Non-Commercial No-Derivatives
+
+Interesting.  For Book 2 (TMBPEW) I can imagine a publisher actually wanting the book.  (For Book 1, maybe not so much--I don't know.)  I could imagine using CC BY Non-Commercial, especially if MIT Press published it.  The No-Derivatives clause seems too restrictive to me, though.  MIT Press also has some new Open initiative in which libraries contribute $$$$ in order to make new books freely available.  I'm not sure I understand that program, although it sounds interesting.
+
+In any case, Book 1 is the same license as SICP, so I'm in good company!  I would be fine with Book 2 being CC BY Non-Commercial, I *think*, although maybe there is something I'm missing.  I'd be interested in your thoughts.
+
+1482 words so far
+
+My wrists are bothering me a little.  Any suggestions about that?
+
+I think tomorrow I'll try typing at a different desk, to see how that feels.  I can't mess around with RSI.  That would derail all my efforts, and cause other issues.  Gotta protect my wrists.
+
+1532 words so far
+
+I think I'm going to call it a night.  Maybe read some more Smith.  Anyone who has published 100+ books can teach me something.
+
+See you soon!  :)
