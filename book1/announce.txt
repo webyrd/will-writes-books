@@ -8,4 +8,20 @@ This comes out to 3,040 words per day, including today.
 
 These words must be in a *draft* of a book to count.  Notes don't count.  I've decided to be more strict that I had originally described.
 
+Starting with `draft-1.txt`
+
 Today's Word count: 0 / 3040
+
+Writing session: 9:56 pm -- ??    Words: 
+
+Had a slight interruption...  Back to writing
+10:59 -- about an hour, with a slight interruption.
+
+Actually, I'm going to end this session for now.  I might write some more tonight.  Depends on external circumstances a bit.  I'll try to start earlier tomorrow.
+
+wc -w draft-1.txt
+743 draft-1.txt
+
+So roughly 1/4 my word count.  It's a beginning though.
+
+Good night!
