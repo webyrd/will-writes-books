@@ -1,0 +1,9 @@
+Hello, dear reader!
+
+I am now using Dvorak layout.  Am I any faster?
+
+Let's talk creativity.
+
+When I took Dan Friedman's advanced programming languages course, everyone else in the class wrote their programs in a functional language, such as Scheme or OCaml.  I, however, decided from the very beginning to write all my programs in miniKanren, a language almost entirely unsuited to the advanced functional programming challenges in the course.
+
+This self-imposed, almost comical, level of difficulty resulted in many late nights of fun and desperate hacking.  
