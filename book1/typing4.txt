@@ -1,0 +1,9 @@
+Silent writing session
+
+I wrote for 15 minutes earlier today, but had problems with the video.
+
+My goal right now is to spend one hour "in the chair" each day, regardless of writing speed or topic.  Also, I want to touch type, regardless of speed or accuracy.
+
+I also want to use Emacs commands as I would normally.
+
+For now, fifteen minutes per session is probably enough.
